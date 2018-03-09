@@ -1,0 +1,10 @@
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\bin\Debug\Roguelike.exe.config
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\bin\Debug\Roguelike.exe
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\bin\Debug\Roguelike.pdb
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.csprojResolveAssemblyReference.cache
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.Form1.resources
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.Properties.Resources.resources
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.csproj.GenerateResource.Cache
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.csproj.CoreCompileInputs.cache
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.exe
+c:\users\right\documents\visual studio 2017\Projects\Roguelike\Roguelike\obj\Debug\Roguelike.pdb
